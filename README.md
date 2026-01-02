@@ -7,7 +7,7 @@ This repository documents my learning about SQLSTATE and SIGNAL, which are used 
 *Structure of SQLSTATE error codes (5-character format)
 *Meaning of SQLSTATE classes and conditions
 *How to use SIGNAL SQLSTATE to raise custom errors
-*Using SQLSTATE for validation inside triggers and procedures
+*Using SQLSTATE for validation inside triggers and procedures 
 *Writing meaningful error messages for better debugging
 
 🧠 Key Concepts
